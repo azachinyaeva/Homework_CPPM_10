@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Dev\HomeworkCPP\Homework_CPPM_10\CMake_HW2_Hierarchy\Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dev\HomeworkCPP\Homework_CPPM_10\CMake_HW2_Hierarchy\Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dev\HomeworkCPP\Homework_CPPM_10\CMake_HW2_Hierarchy\RightTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dev\HomeworkCPP\Homework_CPPM_10\CMake_HW2_Hierarchy\Rectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dev\HomeworkCPP\Homework_CPPM_10\CMake_HW2_Hierarchy\Rhombus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dev\HomeworkCPP\Homework_CPPM_10\CMake_HW2_Hierarchy\Quadrangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dev\HomeworkCPP\Homework_CPPM_10\CMake_HW2_Hierarchy\Parallelogram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dev\HomeworkCPP\Homework_CPPM_10\CMake_HW2_Hierarchy\IsoscelesTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dev\HomeworkCPP\Homework_CPPM_10\CMake_HW2_Hierarchy\EquilateralTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dev\HomeworkCPP\Homework_CPPM_10\CMake_HW2_Hierarchy\Figure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Dev\HomeworkCPP\Homework_CPPM_10\CMake_HW2_Hierarchy\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BB8CBDC3-CB47-338D-B039-A44B7B92AE55}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
