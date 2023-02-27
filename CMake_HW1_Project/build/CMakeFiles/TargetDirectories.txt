@@ -1,0 +1,3 @@
+D:/Dev/HomeworkCPP/Homework_CPPM_10/CMake_HW1_Project/build/CMakeFiles/my_first_cmake_program.dir
+D:/Dev/HomeworkCPP/Homework_CPPM_10/CMake_HW1_Project/build/CMakeFiles/ALL_BUILD.dir
+D:/Dev/HomeworkCPP/Homework_CPPM_10/CMake_HW1_Project/build/CMakeFiles/ZERO_CHECK.dir
